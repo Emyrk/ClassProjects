@@ -1,0 +1,22 @@
+/* Created by Steven Masley */
+
+/* Created by Steven Masley */
+
+body {}
+
+table {}
+
+td {}
+
+.converter {
+  border: 3px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.convert_button {
+  background-color: gray;
+  border-color: white;
+  margin-left: 50px;
+}
