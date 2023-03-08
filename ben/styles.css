@@ -14,6 +14,10 @@ table {}
 
 td {}
 
+input {
+  font-size: 40px;
+}
+
 .converter {
   border: 3px solid rgb(0, 0, 0);
   border-radius: 10px;
@@ -26,4 +30,9 @@ td {}
   background-color: rgb(255, 255, 255);
   border-color: rgb(0, 0, 0);
   margin-left: 50px;
+}
+
+.footer {
+  width: 100%;
+  text-align: right;
 }
